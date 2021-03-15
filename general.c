@@ -1,5 +1,6 @@
 #include "unistd.h"
 
+#include "stdio.h"
 
 void ft_ft(int *value)
 {
@@ -41,4 +42,49 @@ void ft_ultmate_mod(int *x, int *y)
  *x = *x / *y;
 *y = temp % *y;
 
+}
+
+void ft_putstr(char *str)
+{
+while(*(str)!='\0')
+	{	write(1,str,1);
+		str++;
+	}
+}
+
+int ft_strlen(char *str)
+{
+	int lenght;
+	lenght = 0;
+while(*(str)!='\0')
+	{	
+		lenght++;
+		str++;
+	}
+	return (lenght);
+}
+
+
+void ft_rrev_int_Tab(int *tab, int size)
+{
+int Reversed_array[size];
+int reversing = size;
+int i = 0;
+	while(tab[i])
+		{ 
+		 Reversed_array[reversing - 1] = tab[i];
+		i++;
+		reversing--;
+	}	
+}
+
+
+
+
+
+
+int main(void)
+{
+int cat[5] = {1,2,3,4,5};
+ft_rrev_int_Tab(cat,5);
 }
