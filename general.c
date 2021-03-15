@@ -78,6 +78,19 @@ int i = 0;
 	}	
 }
 
+void ft_sort(int *tab, int size)
+{
+int Reversed_array[size];
+int reversing = size;
+int i = 0;
+	while(tab[i])
+		{ 
+			if(R
+		 Reversed_array[reversing - 1] = tab[i];
+		i++;
+
+		reversing--;
+	}
 
 
 
@@ -85,6 +98,5 @@ int i = 0;
 
 int main(void)
 {
-int cat[5] = {1,2,3,4,5};
-ft_rrev_int_Tab(cat,5);
+	
 }
