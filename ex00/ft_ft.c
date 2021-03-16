@@ -6,11 +6,9 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 13:00:53 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/15 13:08:27 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/16 11:33:04 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "unistd.h"
 
 void	ft_ft(int *value)
 {

@@ -6,11 +6,9 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 14:56:14 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/15 16:02:10 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/16 11:35:05 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "unistd.h"
 
 int	ft_strlen(char *str)
 {

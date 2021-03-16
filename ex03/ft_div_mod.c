@@ -6,11 +6,9 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 13:35:28 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/15 13:38:40 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/16 11:34:23 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "unistd.h"
 
 void	ft_div_mod(int x, int y, int *div, int *mod)
 {

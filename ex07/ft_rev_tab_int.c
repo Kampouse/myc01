@@ -6,10 +6,11 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 15:17:09 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/15 16:11:01 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/16 11:35:26 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "stdio.h"
+
+
 void	ft_rev_int_tab (int *tab, int size)
 {
 	int		i;

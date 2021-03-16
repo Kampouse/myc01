@@ -6,11 +6,9 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 13:12:56 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/15 13:15:05 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/16 11:33:27 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "unistd.h"
 
 void	ft_ultimate(int *********value)
 {
