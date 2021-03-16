@@ -6,10 +6,9 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 15:17:09 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/16 11:35:26 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/16 13:56:45 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 
 void	ft_rev_int_tab (int *tab, int size)
 {
