@@ -6,10 +6,10 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 14:56:14 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/16 14:13:51 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/17 10:24:23 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "stdio.h"
+
 int	ft_strlen(char *str)
 {
 	int		lenght;

@@ -6,11 +6,11 @@
 /*   By: jean-phil <jemartel@student.42quebec>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 13:12:56 by jean-phil         #+#    #+#             */
-/*   Updated: 2021/03/16 11:33:27 by jean-phil        ###   ########.fr       */
+/*   Updated: 2021/03/18 08:00:10 by jean-phil        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void	ft_ultimate(int *********value)
+void	ft_ultimate_ft(int *********value)
 {
 	*********value = 42;
 }
